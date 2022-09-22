@@ -1,2 +1,2 @@
 # blog
-personal though closet
+personal though cabin
